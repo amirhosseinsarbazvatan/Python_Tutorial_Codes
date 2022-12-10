@@ -42,6 +42,9 @@ print(num1)
 # Len method in list
 print(len(num1))
 
+# Count method in list
+print(num1.count(1))      
+
 # Index method in list
 n = ["a" , "b" , "c" , "d"]
 print(n.index("b"))
